@@ -15,9 +15,9 @@ https://www.postman.com
 
 ## Screenshots
 screenshot of main page of MongoDb with the users collections.
-!["screenshot of creating main page showing new product creation."](https://github.com/BBrandford11/mongoDB_practice/blob/master/photos/mongo.png?raw=true)
-screenshot of Postman creating new user to database.
-!["screenshot of new product added to database"](https://github.com/BBrandford11/mongoDB_practice/blob/master/photos/Screenshot%202022-06-06%20160844.png?raw=true)
+!["screenshot of creating main page showing new product creation."](https://github.com/BBrandford11/mongo_dbpractice/blob/master/photos/mongo1.png?raw=true)
+screenshot of Postman showing all users in database.
+!["screenshot of new product added to database"](https://github.com/BBrandford11/mongo_dbpractice/blob/master/photos/postman2.png?raw=true)
 screenshot of Postman updating a user already in database.
-!["screenshot showing the reduction of quantity with shippment."](https://github.com/BBrandford11/mongoDB_practice/blob/master/photos/Screenshot%202022-06-06%20160754.png?raw=true)
+!["screenshot showing the reduction of quantity with shippment."](https://github.com/BBrandford11/mongo_dbpractice/blob/master/photos/postman1.png?raw=true)
 
